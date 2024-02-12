@@ -3,9 +3,7 @@ import Slideshow from "./slideShow/Slideshow";
 
 const MainJS = () =>{
     //tests
-    return <div>
-        <Slideshow/>
-    </div>
+    return <Slideshow/>
 }
 
 export default MainJS

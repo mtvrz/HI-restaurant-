@@ -1,12 +1,12 @@
 import classes from "./Slideshow.module.css";
 import React from 'react';
-import sundayImage from '../../store/logo.png';
-import mondayImage from '../../store/pondeli.JPG';
-import tuesdayImage from '../../store/utery.JPG';
-import wednesdayImage from '../../store/streda.JPG';
-import thursdayImage from '../../store/ctvrtek.JPG';
-import fridayImage from '../../store/patek.JPG';
-import saturdayImage from '../../store/logo.png';
+import sundayImage from '../../store/spec.jpg';
+import mondayImage from '../../store/spec.jpg';
+import tuesdayImage from '../../store/spec.jpg';
+import wednesdayImage from '../../store/spec.jpg';
+import thursdayImage from '../../store/spec.jpg';
+import fridayImage from '../../store/spec.jpg';
+import saturdayImage from '../../store/spec.jpg';
 
 class Slideshow extends React.Component {
     constructor(props) {
@@ -51,8 +51,8 @@ class Slideshow extends React.Component {
         const currentImage = images[currentImageIndex];
         console.log(currentImageIndex)
         return (
-            <div style={{ width: '100%', height: '100%', overflow: 'hidden' }}>
-                <img src={currentImage} alt="Slideshow" style={{ width: '100%', height: '100%', objectFit: 'cover' }} />
+            <div className={classes.slide}>
+                <img src={currentImage} alt="Slideshow" className={classes.slideImage} />
             </div>
         );
     }
