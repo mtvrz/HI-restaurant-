@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/HI-restaurant-/static/css/main.f69a924f.css",
+    "main.js": "/HI-restaurant-/static/js/main.2cbfd24a.js",
+    "static/media/patek.JPG": "/HI-restaurant-/static/media/patek.1235b370ca8992b6809b.JPG",
+    "static/media/streda.JPG": "/HI-restaurant-/static/media/streda.d18418373f07f100a343.JPG",
+    "static/media/ctvrtek.JPG": "/HI-restaurant-/static/media/ctvrtek.cfae238a4ff9e324df07.JPG",
+    "static/media/pondeli.JPG": "/HI-restaurant-/static/media/pondeli.4d86b92a74254d8aff4f.JPG",
+    "static/media/utery.JPG": "/HI-restaurant-/static/media/utery.02de7d2b6cca4f9e5ec6.JPG",
+    "static/media/logo.png": "/HI-restaurant-/static/media/logo.6a10bdb73adb9b236eeb.png",
+    "index.html": "/HI-restaurant-/index.html",
+    "main.f69a924f.css.map": "/HI-restaurant-/static/css/main.f69a924f.css.map",
+    "main.2cbfd24a.js.map": "/HI-restaurant-/static/js/main.2cbfd24a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f69a924f.css",
+    "static/js/main.2cbfd24a.js"
+  ]
+}
