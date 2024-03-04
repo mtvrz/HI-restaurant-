@@ -1,14 +1,15 @@
 {
   "files": {
     "main.css": "/HI-restaurant-/static/css/main.213cbb0c.css",
-    "main.js": "/HI-restaurant-/static/js/main.b70d9200.js",
+    "main.js": "/HI-restaurant-/static/js/main.c2ebf051.js",
+    "static/media/spec2.jpg": "/HI-restaurant-/static/media/spec2.2c82c478e9c84227d934.jpg",
     "static/media/spec.jpg": "/HI-restaurant-/static/media/spec.a3248ad60b05166a0894.jpg",
     "index.html": "/HI-restaurant-/index.html",
     "main.213cbb0c.css.map": "/HI-restaurant-/static/css/main.213cbb0c.css.map",
-    "main.b70d9200.js.map": "/HI-restaurant-/static/js/main.b70d9200.js.map"
+    "main.c2ebf051.js.map": "/HI-restaurant-/static/js/main.c2ebf051.js.map"
   },
   "entrypoints": [
     "static/css/main.213cbb0c.css",
-    "static/js/main.b70d9200.js"
+    "static/js/main.c2ebf051.js"
   ]
 }
